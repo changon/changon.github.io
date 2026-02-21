@@ -1,0 +1,27 @@
+baseURL = "https://changon.github.io/"
+theme = "PaperMod"
+
+[params]
+  author = "Raphael"
+
+[author]
+  name = "Raphael"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
