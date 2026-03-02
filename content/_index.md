@@ -15,7 +15,7 @@ title: "Home"
 
 # Raphael Kim
 
-Hi! I'm Raphael. I am a Post-Doctoral Researcher at Cornell Tech/NYU hosted by Dr. Ramin Zabih and Michele Santacatterina. I received my PhD in Biostatistics from Harvard University, where I was fortunate to work with Drs. Rachel Nethery, Rajarshi Mukherjee, and Falco Bargagli-Stoffi.
+Hi! I'm Raphael. I am a Post-Doctoral Researcher at Cornell Tech/NYU hosted by Drs. Ramin Zabih and Michele Santacatterina. I received my PhD in Biostatistics from Harvard University, where I was fortunate to work with Drs. Rachel Nethery, Rajarshi Mukherjee, and Falco Bargagli-Stoffi.
 
 My research interests involve optimal decision-making, causal inference,
 nonparametric statistics, and machine learning.
