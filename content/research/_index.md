@@ -10,7 +10,7 @@ My research focuses on optimal decision-making, causal inference, nonparametric 
 **Kim, R. C.**, Nethery, R. C., Chen, K. L., & Bargagli-Stoffi, F. J. (2026). *Fair policy learning under bipartite network interference: Learning fair and cost-effective environmental policies*. [_arxiv_](https://arxiv.org/abs/2601.00531). 
 
 ### Selected Publications ##
-**Kim, R. C.**, Bargagli-Stoffi, F. J., Chen, K. L., & Nethery, R. C. (2024). *Towards optimal environmental policies: Policy learning under arbitrary bipartite network interference*. To appear in Biostatistics 
+**Kim, R. C.**, Bargagli-Stoffi, F. J., Chen, K. L., & Nethery, R. C. (2025). *Towards optimal environmental policies: Policy learning under arbitrary bipartite network interference*. To appear in Biostatistics. 
 
 Ghosh, S.\*, **Kim, R. C.\***, Chhabria, P., Dwivedi, R., Klasnja, P., Liao, P., & Murphy, S. (2024).
 *Did we personalize? Assessing personalization by an online reinforcement learning algorithm using resampling.*
