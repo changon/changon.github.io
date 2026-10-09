@@ -6,7 +6,7 @@ title: "Research"
 
 <div class="pub">
 
-**Kim, R. C.**, Zhu, J., Zabih, R., Mukherjee, R., & Diaz, I. (2026). *Statistical Inference for Continuous Action Bandits*. [arXiv](https://arxiv.org/abs/2610.09801)
+**Kim, R. C.**, Santacatterina, M., Zabih, R., Mukherjee, R., & Diaz, I. (2026). *Statistical Inference for Continuous Action Bandits*. [arXiv](https://arxiv.org/abs/2610.09801)
 
 </div>
 
