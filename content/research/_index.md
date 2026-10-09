@@ -6,7 +6,13 @@ title: "Research"
 
 <div class="pub">
 
-**Kim, R. C.**, Zhu, J., Zabih, R., & Santacatterina, M. (2026). *Automatic, debiased, and invariant counterfactual generation under general interventions*. [arxiv](https://arxiv.org/abs/2606.07399)
+**Kim, R. C.**, Zhu, J., Zabih, R., Mukherjee, R., & Diaz, I. (2026). *Statistical Inference for Continuous Action Bandits*. [arXiv](https://arxiv.org/abs/2610.09801)
+
+</div>
+
+<div class="pub">
+
+**Kim, R. C.**, Zhu, J., Zabih, R., & Santacatterina, M. (2026). *Are Good Generators Good Decision-Makers? Policy Learning for General Interventions via Retargeted Counterfactual Generation*. [arxiv](https://arxiv.org/abs/2606.07399)
 
 </div>
 
@@ -18,7 +24,7 @@ title: "Research"
 
 <div class="pub">
 
-**Kim, R. C.**, Nethery, R. C., Chen, K. L., & Bargagli-Stoffi, F. J. (2026). *Fair policy learning under bipartite network interference: Learning fair and cost-effective environmental policies*. [arxiv](https://arxiv.org/abs/2601.00531)
+**Kim, R. C.**, Nethery, R. C., Chen, K. L., & Bargagli-Stoffi, F. J. (2026). *Fair Policy Learning under Bipartite Network Interference: Learning Fair and Cost-Effective Environmental Policies*. [arXiv](https://arxiv.org/abs/2601.00531). *Under Major Revision at JASA.*
 
 </div>
 

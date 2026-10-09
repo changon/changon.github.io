@@ -17,7 +17,7 @@ title: "Home"
 
 Hi! I'm Raphael. I am a Post-Doctoral Researcher at Cornell Tech/NYU hosted by Drs. Ramin Zabih and Michele Santacatterina. I received my PhD in Biostatistics from Harvard University, where I was fortunate to work with Drs. Rachel Nethery, Rajarshi Mukherjee, and Falco Bargagli-Stoffi.
 
-My research interests involve adaptive data collection, generative modeling, causal inference, nonparametric statistics, and machine learning.
+My research interests involve adaptive data, generative modeling, causal inference, nonparametric statistics, and machine learning.
 
 </div>
 
