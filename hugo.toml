@@ -3,6 +3,7 @@ theme = "PaperMod"
 
 [params]
   author = "Raphael"
+  defaultTheme = "light"
 
 [author]
   name = "Raphael"
