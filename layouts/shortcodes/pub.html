@@ -1,6 +1,7 @@
 {{- /*
   Publication card.
   Params: title, authors, venue, year, status, highlight, note,
+  (abstract is looked up in data/abstracts.json by arxiv id, then DOI)
           arxiv, pdf, doi, project, code
   "Kim, R. C." in authors is bolded automatically.
 */ -}}
@@ -27,5 +28,16 @@
       {{- with .Get "doi" }}<a class="pub-link" href="https://doi.org/{{ . }}">Journal</a>{{ end -}}
       {{- with .Get "code" }}<a class="pub-link" href="{{ . }}">Code</a>{{ end -}}
     </div>
+    {{- $abs := "" -}}
+    {{- with .Get "arxiv" }}{{ $abs = index site.Data.abstracts . | default "" }}{{ end -}}
+    {{- if and (not $abs) (.Get "doi") }}{{ $abs = index site.Data.abstracts (lower (.Get "doi")) | default "" }}{{ end -}}
+    {{- with $abs }}
+    <details class="pub-abstract">
+      <summary>Abstract</summary>
+      <div class="pub-abstract-body">
+        {{- range split . "\n\n" }}<p>{{ . }}</p>{{ end -}}
+      </div>
+    </details>
+    {{- end }}
   </div>
 </article>
