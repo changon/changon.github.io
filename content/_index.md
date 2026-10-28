@@ -11,7 +11,9 @@ title: "Home"
 # Raphael Kim
 
 
-Hi! I'm Raphael. I am a Post-Doctoral Researcher at Cornell Tech/NYU hosted by Drs. [Ramin Zabih](https://www.cs.cornell.edu/rdz/) and [Michele Santacatterina](https://michelesantacatterina.github.io/), where I also work with [Ivan Diaz](https://med.nyu.edu/faculty/ivan-l-diaz). I received my PhD in Biostatistics from Harvard University, where I was fortunate to work with Drs. [Rachel Nethery](https://rachelnethery.github.io/), [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/), and [Falco Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
+Hi! I'm Raphael, a Post-Doctoral Researcher at Cornell Tech/NYU hosted by [Ramin Zabih](https://www.cs.cornell.edu/rdz/) and [Michele Santacatterina](https://michelesantacatterina.github.io/), where I also work with [Ivan Diaz](https://med.nyu.edu/faculty/ivan-l-diaz).
+
+I received my PhD in Biostatistics from Harvard University, where I was fortunate to work with [Rachel Nethery](https://rachelnethery.github.io/), [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/), and [Falco Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
 
 My research interests involve adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. See my [research page](/research/) for more information!
 

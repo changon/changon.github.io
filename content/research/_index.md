@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 <p class="research-intro">
-My research develops methods in adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. Preprints are listed first, followed by publications grouped into methodological and substantive work. A full list is also on <a href="https://scholar.google.com/citations?user=tbaNqfIAAAAJ&hl=en">Google Scholar</a>.
+My research develops methods in adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. A full list is also on <a href="https://scholar.google.com/citations?user=tbaNqfIAAAAJ&hl=en">Google Scholar</a>.
 </p>
 
 ### Preprints
