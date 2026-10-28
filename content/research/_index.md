@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 <p class="research-intro">
-My research develops methods in adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. A full list of my work is also on <a href="https://scholar.google.com/citations?user=tbaNqfIAAAAJ&hl=en">Google Scholar</a>.
+My research develops methods that turn data into reliable decisions, from adaptive experiments to world models, drawing on causal inference, reinforcement learning, nonparametric statistics, and machine learning. Applications include health, business, public policy, and computer vision. A full list of my work is also on <a href="https://scholar.google.com/citations?user=tbaNqfIAAAAJ&hl=en">Google Scholar</a>.
 </p>
 
 ### Preprints

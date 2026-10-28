@@ -15,7 +15,7 @@ Hi! I'm Raphael, a Post-Doctoral Researcher at Cornell Tech/NYU hosted by [Ramin
 
 I received my PhD in Biostatistics from Harvard University, where I was fortunate to work with [Rachel Nethery](https://rachelnethery.github.io/), [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/), and [Falco Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
 
-My research interests involve adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. See my [research page](/research/) for more information!
+My research turns data into reliable decisions, from adaptive experiments to world models, using causal inference, reinforcement learning, nonparametric statistics, and machine learning. Applications include health, business, public policy, and computer vision. See my [research page](/research/) for more information.
 
 </div>
 
