@@ -228,14 +228,14 @@
 @media (min-width: 1100px) {
   .home-hero {
     gap: 70px;
-    margin: 106px -78px 90px -78px;
+    margin: 106px -118px 90px -118px;
   }
   .home-hero img {
     flex-basis: 205px;
     width: 205px;
     margin-top: 15px;
   }
-  .home-hero .home-text { max-width: 600px; }
+  .home-hero .home-text { max-width: 680px; }
 }
 
 /* Preprints / Publications sub-labels within a section */
@@ -323,3 +323,7 @@
 }
 
 .post-content .pub-abstract-body p:last-child { margin-bottom: 0; }
+
+/* Keep linked names on one line; avoid lone words on the last line */
+.home-text a { white-space: nowrap; }
+.home-text p { text-wrap: pretty; }
