@@ -1,0 +1,31 @@
+{{- /*
+  Publication card.
+  Params: title, authors, venue, year, status, highlight, note,
+          arxiv, pdf, doi, project, code
+  "Kim, R. C." in authors is bolded automatically.
+*/ -}}
+{{- $authors := .Get "authors" | replaceRE `Kim, R\. C\.(\\\*|\*)?` `<strong>Kim, R. C.$1</strong>` -}}
+<article class="pub-card">
+  <div class="pub-year">{{ .Get "year" }}</div>
+  <div class="pub-body">
+    <h4 class="pub-title">
+      {{- with .Get "project" }}<a href="{{ . }}">{{ $.Get "title" }}</a>{{ else }}{{ .Get "title" }}{{ end -}}
+    </h4>
+    <div class="pub-authors">{{ $authors | markdownify }}</div>
+    {{- if or (.Get "venue") (.Get "status") }}
+    <div class="pub-venue">
+      {{- with .Get "venue" }}<em>{{ . | markdownify }}</em>{{ end -}}
+      {{- with .Get "status" }}<span class="pub-status">{{ . }}</span>{{ end -}}
+    </div>
+    {{- end }}
+    {{- with .Get "highlight" }}<div class="pub-highlight">★ {{ . }}</div>{{ end }}
+    {{- with .Get "note" }}<p class="pub-note">{{ . | markdownify }}</p>{{ end }}
+    <div class="pub-links">
+      {{- with .Get "project" }}<a class="pub-link pub-link--project" href="{{ . }}">Project page</a>{{ end -}}
+      {{- with .Get "arxiv" }}<a class="pub-link" href="https://arxiv.org/abs/{{ . }}">arXiv</a>{{ end -}}
+      {{- with .Get "pdf" }}<a class="pub-link" href="{{ . }}">PDF</a>{{ end -}}
+      {{- with .Get "doi" }}<a class="pub-link" href="https://doi.org/{{ . }}">Journal</a>{{ end -}}
+      {{- with .Get "code" }}<a class="pub-link" href="{{ . }}">Code</a>{{ end -}}
+    </div>
+  </div>
+</article>
