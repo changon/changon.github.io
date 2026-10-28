@@ -3,12 +3,18 @@ title: "Research"
 ---
 
 <p class="research-intro">
-My research develops methods in adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. Methodological work is listed first, followed by substantive collaborations. A full list is also on <a href="https://scholar.google.com/citations?user=tbaNqfIAAAAJ&hl=en">Google Scholar</a>.
+My research develops methods in adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. Preprints are listed first, followed by publications grouped into methodological and substantive work. A full list is also on <a href="https://scholar.google.com/citations?user=tbaNqfIAAAAJ&hl=en">Google Scholar</a>.
 </p>
 
-### Methodological
+### Preprints
 
-<p class="pub-group">Preprints</p>
+{{< pub
+  year="2026"
+  title="Reorganizing Graduate Statistical Inference for Modern Biostatistical Practice"
+  authors="Kim, R. C., & Santacatterina, M."
+  note="Proposes a target-first structure for the first-year PhD inference course — starting from the scientific question and target parameter — that places classical tools like maximum likelihood, estimating equations, and the bootstrap in one workflow connecting to machine learning, policy learning, and anytime-valid inference."
+  arxiv="2610.30483"
+>}}
 
 {{< pub
   year="2026"
@@ -73,7 +79,9 @@ My research develops methods in adaptive data, world modeling, causal inference,
   arxiv="2304.12500"
 >}}
 
-<p class="pub-group">Publications</p>
+### Publications
+
+<p class="pub-group">Methodological</p>
 
 {{< pub
   year="2026"
@@ -95,9 +103,7 @@ My research develops methods in adaptive data, world modeling, causal inference,
   doi="10.1007/s10994-024-06526-x"
 >}}
 
-### Substantive
-
-<p class="pub-group">Publications</p>
+<p class="pub-group">Substantive</p>
 
 {{< pub
   year="2026"

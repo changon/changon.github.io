@@ -252,34 +252,29 @@
 
 .pub-venue em + .pub-status { margin-left: 8px; }
 
-/* Profile links under name on home page */
+/* Profile icon links, centered at the bottom of the home page */
 .home-links {
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: -6px 0 18px;
+  justify-content: center;
+  gap: 22px;
+  margin: 8px 0 24px;
 }
 
 .post-content .home-links a {
   display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 4px 12px;
-  font-size: 0.82rem;
-  font-weight: 600;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  background: var(--entry);
-  color: var(--primary);
+  color: var(--secondary);
   box-shadow: none;
   text-decoration: none;
+  transition: color 0.15s, transform 0.15s;
 }
 
-.post-content .home-links a:hover { border-color: var(--primary); }
+.post-content .home-links a:hover {
+  color: var(--primary);
+  transform: translateY(-2px);
+}
 
 .home-links svg {
-  width: 15px;
-  height: 15px;
+  width: 30px;
+  height: 30px;
   fill: currentColor;
-  flex: none;
 }
