@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 <p class="research-intro">
-My research develops methods in adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. Methodological work is listed first, followed by substantive collaborations.
+My research develops methods in adaptive data, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, and engineering. Methodological work is listed first, followed by substantive collaborations. A full list is also on <a href="https://scholar.google.com/citations?user=tbaNqfIAAAAJ&hl=en">Google Scholar</a>.
 </p>
 
 ### Methodological
