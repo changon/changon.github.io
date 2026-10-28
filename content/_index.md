@@ -13,7 +13,7 @@ title: "Home"
 
 Hi! I'm Raphael, a Post-Doctoral Researcher at Cornell Tech/NYU hosted by [Ramin Zabih](https://www.cs.cornell.edu/rdz/) and [Michele Santacatterina](https://michelesantacatterina.github.io/), where I also work with [Ivan Diaz](https://med.nyu.edu/faculty/ivan-l-diaz).
 
-I received my PhD in Biostatistics from Harvard University, where I was fortunate to work with [Rachel Nethery](https://rachelnethery.github.io/), [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/), and [Falco Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
+I received my PhD in Biostatistics from Harvard University, where I was fortunate to be advised by [Rachel Nethery](https://rachelnethery.github.io/) and also worked with [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/) and [Falco Bargagli-Stoffi](https://www.falcobargaglistoffi.com/).
 
 My research interests lie in sequential decision-making, world modeling, causal inference, nonparametric statistics, and machine learning, with applications to healthcare, business, public policy, and computer vision. See my [research page](/research/) for more information!
 
