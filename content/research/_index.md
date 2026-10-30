@@ -10,6 +10,13 @@ My research interests lie in sequential decision-making, world modeling, causal 
 
 {{< pub
   year="2026"
+  title="Reinforcement Learning Under Runtime Confounding: Policy Learning and Off-Policy Evaluation"
+  authors="Kim, R. C., Santacatterina, M., Zabih, R., & Barnatchez, K."
+  arxiv="2610.40056"
+>}}
+
+{{< pub
+  year="2026"
   title="Reorganizing Graduate Statistical Inference for Modern Biostatistical Practice"
   authors="Kim, R. C., & Santacatterina, M."
   arxiv="2610.30483"
