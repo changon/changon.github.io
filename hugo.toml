@@ -4,6 +4,7 @@ theme = "PaperMod"
 [params]
   author = "Raphael"
   defaultTheme = "light"
+  goatcounter = "changon"  # GoatCounter site code (xxx in xxx.goatcounter.com)
 
 [author]
   name = "Raphael"
