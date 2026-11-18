@@ -10,6 +10,13 @@ My research interests lie in sequential decision-making, world modeling, causal 
 
 {{< pub
   year="2026"
+  title="Plausible Videos Can Lead to Poor Decisions: Diagnosing and CURE-ing World Models for Planning"
+  authors="Kim, R. C., Santacatterina, M., Zhu, J., & Zabih, R."
+  arxiv="2611.22561"
+>}}
+
+{{< pub
+  year="2026"
   title="Reinforcement Learning Under Runtime Confounding: Policy Learning and Off-Policy Evaluation"
   authors="Kim, R. C., Santacatterina, M., Zabih, R., & Barnatchez, K."
   arxiv="2610.40056"
